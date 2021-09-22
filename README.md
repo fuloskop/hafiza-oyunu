@@ -1,7 +1,7 @@
 # Flip Card || Memory Game - ReactJS
 
 
-See live: [Eklenecek]()
+See live: [https://hafiza-oyunu-fuloskop.netlify.app](https://hafiza-oyunu-fuloskop.netlify.app)
 
 <img src="src/flipcard.png" width="100%" align="center">
 
