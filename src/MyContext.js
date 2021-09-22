@@ -35,32 +35,32 @@ export const MyProvider = ({ children }) => {
         "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/015.png",
     },
     {
-      id: 7,
+      id: 11,
       image:
         "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/019.png",
     },
     {
-      id: 8,
+      id: 12,
       image:
         "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/023.png",
     },
     {
-      id: 9,
+      id: 13,
       image:
         "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/025.png",
     },
     {
-      id: 10,
+      id: 14,
       image:
         "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/033.png",
     },
     {
-      id: 11,
+      id: 15,
       image:
         "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/037.png",
     },
     {
-      id: 12,
+      id: 16,
       image:
         "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/043.png",
     },
