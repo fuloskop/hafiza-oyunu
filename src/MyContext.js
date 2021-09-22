@@ -37,32 +37,32 @@ export const MyProvider = ({ children }) => {
     {
       id: 11,
       image:
-        "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/019.png",
+          "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/001.png",
     },
     {
       id: 12,
       image:
-        "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/023.png",
+          "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/004.png",
     },
     {
       id: 13,
       image:
-        "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/025.png",
+          "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/007.png",
     },
     {
       id: 14,
       image:
-        "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/033.png",
+          "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/010.png",
     },
     {
       id: 15,
       image:
-        "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/037.png",
+          "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/012.png",
     },
     {
       id: 16,
       image:
-        "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/043.png",
+          "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/015.png",
     },
   ]);
 
